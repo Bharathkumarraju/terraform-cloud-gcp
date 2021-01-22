@@ -1,2 +1,1 @@
-# terraform-cloud-gcp
-terraform-cloud-gcp
+# terraform-cloud-google
